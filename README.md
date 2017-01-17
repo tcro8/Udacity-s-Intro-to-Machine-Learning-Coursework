@@ -3,7 +3,7 @@
 About:
 This repository contains the coursework as well as final project for Udacity's Intro to Machine Learning course. The course involves 
 employing and tuning various ML algorithms and culminates with a project that explores the Enron Corpus with the intent of finding Persons
-of Interest for the fraud case.
+of Interest for the fraud case. The file that contains my work on the project can be found at "final_project/poi_id.py".
 
 
 Initial note (1/16/17):
